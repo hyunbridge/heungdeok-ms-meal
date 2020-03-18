@@ -1,3 +1,7 @@
+**이 Repo는 더 이상 업데이트되지 않습니다. 아래 링크의 Repo를 참조하세요.**
+
+**[https://github.com/hyunbridge/hdmeal-chatbot](https://github.com/hyunbridge/hdmeal-chatbot)**
+
 # 흥덕중 급식봇
 
 흥덕중 급식봇은 흥덕중학교 학교생활에 유용한 정보들을 간단하게 조회할 수 있는 카카오톡 챗봇입니다.
